@@ -105,7 +105,6 @@ python code/retriever.py "how do I cancel my Claude Pro subscription"
 
 ---
 
-## Design Decisions
 
 ### Why RAG instead of fine-tuning?
 
